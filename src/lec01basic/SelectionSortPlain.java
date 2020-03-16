@@ -1,4 +1,4 @@
-package lec01sorting;
+package lec01basic;
 
 import java.util.Arrays;
 
