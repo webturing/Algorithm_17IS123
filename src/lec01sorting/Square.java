@@ -10,7 +10,7 @@ public class Square {
 
     }
 
-    static void solve(int n) {//O(n^2)
+    static void solve(int n) {//O(n^2/2)
         for (int p = 1; p <= n; p++) {
             for (int q = p + 1; q <= n; q++) {
                 int s = (p + q) * (q - p + 1) / 2;
