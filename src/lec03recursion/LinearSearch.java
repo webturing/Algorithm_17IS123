@@ -11,6 +11,8 @@ public class LinearSearch {
     }
 
     //search k in A[p:q]
+    //T(n)=1+T(n-1)  T(1)=1
+    //=> T(n)=n
     private static int find(int[] a, int k, int p, int q) {
         if (p == q) return k == a[p] ? p : -1;
         if (k == a[p]) return p;

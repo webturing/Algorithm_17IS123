@@ -9,8 +9,9 @@ public class SelectionSort {
         System.out.println(Arrays.toString(a));
 
     }
-
-    static void sort(int[] a, int p, int q) {
+    //T(n)=n+T(n-1) T(1)=1
+    //
+       static void sort(int[] a, int p, int q) {
         if (p == q) return;
         int k = p;
         for (int i = p + 1; i <= q; i++) {
@@ -21,7 +22,7 @@ public class SelectionSort {
             a[p] = a[k];
             a[k] = t;
         }
-        sort(a, p + 1, q);
+        sort(a, p + 1, q);//T(n-1)
     }
 
 }

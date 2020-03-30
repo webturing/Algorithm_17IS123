@@ -14,6 +14,9 @@ public class BinarySearch {
     }
 
     //binary search k in A[p:q]
+    //T(n)=1+T(n/2) T(1)=1
+    //=> T(n)=log N
+
     private static int find(int[] a, int k, int p, int q) {
         if (p == q) return a[p] == k ? p : -1;
         int mid = (p + q) / 2;
