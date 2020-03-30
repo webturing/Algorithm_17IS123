@@ -3,21 +3,20 @@ package lec03recursion;
 import java.util.Arrays;
 
 
-public class SelectionSortRecursive {
+public class SelectionSort0 {
     static void sort(int arr[], int left, int right) {
-        if (left >= right)
-            return;
-        int k = left;
-        for (int j = left + 1; j <= right; j++) {
-            if (arr[j] < arr[k]) k = j;
+        for (int i = left; i <= right; i++) {
+            int k = i;
+            for (int j = i + 1; j <= right; j++) {
+                if (arr[j] < arr[k]) k = j;
 
+            }
+            if (k != i) {
+                int temp = arr[i];
+                arr[i] = arr[k];
+                arr[k] = temp;
+            }
         }
-        if (k != left) {
-            int temp = arr[left];
-            arr[left] = arr[k];
-            arr[k] = temp;
-        }
-        sort(arr, left + 1, right);
     }
 
     public static void main(String[] args) {
