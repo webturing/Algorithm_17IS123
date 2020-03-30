@@ -11,6 +11,16 @@ public class MergeSort {
         sort(a, 0, a.length - 1);
         System.out.println(Arrays.toString(a));
     }
+    //T(n)=T(n/2)*2+n  设n=2^k
+    //T(2^k)=T(2^(k-1))*2+2^k;
+    //2*T(2^ (k-1))=T(2^(k-2))*2*2+2^k;
+    //2^2 * T(2^(k-2))=T(2^(k-3)) *2^3+2^k
+
+    //....
+    //2^(k-1)*T(1)=1+2^k
+
+    //T(2^k)=2^k*k  k=logN
+    //T(n)=n*logN=O(nlogN)
 
     static void sort(int[] a, int p, int q) {
         if (p == q) return;

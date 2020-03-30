@@ -10,7 +10,7 @@ public class SelectionSort {
 
     }
     //T(n)=n+T(n-1) T(1)=1
-    //
+    //=>T(n)=n*(n+1)/2=O(n^2)
        static void sort(int[] a, int p, int q) {
         if (p == q) return;
         int k = p;

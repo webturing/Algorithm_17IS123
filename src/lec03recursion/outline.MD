@@ -7,6 +7,7 @@ by  zj@webturing.com
 
 #常见复杂度和百万规模计算时间
 - $$O(1)​$$ 	<1msec
+-$$O(log(n))$$ 
 - $$O(n)$$       1msec
 - $$O(n*\log{n})$$   1.5sec
 - $O(n^2)$          超过1week
