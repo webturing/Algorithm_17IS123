@@ -4,7 +4,7 @@ public class Step00 {
     public static final int N = 100;
 
     public static long h(int x) {
-        return 1L * x * x * x * x * x;
+        return (long) x * x * x * x * x;
     }
 
     public static void main(String[] args) {

@@ -12,7 +12,7 @@ import java.util.Scanner;
 * 1.738s
 * 通过测试还发现:把N=2,3,5,都可以分解（x^2+y^2=z^2 x^3+y^3+z^3=w^3 以及 A^5+B^5+C^5+D^5+E^5==F^5都有解，n=4,6都没有解...)
 */
-public class FindPower5 {
+public class Step06 {
 static long[] b = new long[101];
 static {for (int i = 1; i < b.length; i++) b[i] = 1L * i * i * i * i * i;}
 static int[] a = new int[6];
