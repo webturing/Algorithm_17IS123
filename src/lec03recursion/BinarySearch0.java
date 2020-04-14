@@ -7,7 +7,7 @@ public class BinarySearch0 {
         int[] a = new int[]{1, 3, 5, 7, 9, 2, 4, 6, 8, 0};
         Arrays.sort(a);
         int k = 7;
-        int pos = find(a, k, 0, a.length - 1);
+        int pos = find(a, k, 3, 8);
 
         System.out.println(pos);
         System.out.println(Arrays.binarySearch(a,k));
