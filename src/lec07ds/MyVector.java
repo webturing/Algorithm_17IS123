@@ -10,9 +10,7 @@ public class MyVector {
             System.err.println("double capacity!!!!");
             capacity *= 2;
             int[] data2 = new int[capacity];
-            for (int i = 0; i < len; i++) {
-                data2[i] = data[i];
-            }
+            System.arraycopy(data,0,data2,0,len);
             data = data2;
         }
         data[len++] = x;
