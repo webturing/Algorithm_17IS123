@@ -20,24 +20,23 @@ public class PolyExpression {
         }
     }
 
+
     static int f(int[] a, int x) {//O(n^2)
         int n = a.length - 1, s = 0;
-        //System.out.println("n="+n);
-        for (int i = n; i >= 0; i--) {
-            s += a[n - i] * linearPower(x, i);//bug
+        for (int i = n; i >= 0; i--) {//O(n)
+            s += a[n - i] * linearPower(x, i);//O(n)
         }
         return s;
     }
 
     static int f1(int[] a, int x) {//O(nlogN)
         int n = a.length - 1, s = 0;
-        //System.out.println("n="+n);
-        for (int i = n; i >= 0; i--) {
-            s += a[n - i] * quickPower(x, i);
+        for (int i = n; i >= 0; i--) {//O(n)
+            s += a[n - i] * quickPower(x, i);//(logi<logN)
         }
         return s;
     }
-
+//ax^3+bx^2+cx+d=(ax^2+bx+c)x+d=((a*x+b)x+c)x+d=> O(n)
     static int f2(int[] a, int x) {//horner准则O(n)
         int s = 0;
         for (int i = 0; i < a.length; i++) {

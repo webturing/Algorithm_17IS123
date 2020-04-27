@@ -1,7 +1,8 @@
 package lec06api;
 
 import java.math.BigInteger;
-
+//a^n % MOD
+//3^1997 %10
 public class PowerDemo {
     static int MOD = 10;
 
