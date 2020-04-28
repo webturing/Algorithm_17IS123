@@ -30,7 +30,7 @@ public class Step04 {
                     for (int d = c; d < N; d++)
                         for (int e = d; e < N; e++) {
                             long key = H[a] + H[b] + H[c] + H[d] + H[e];
-                            int f = Arrays.binarySearch(H, e+1, N, key);
+                            int f = Arrays.binarySearch(H, e+1, N, key);//[fromIndex,endIndex]
                             if (f >= 0)
                                 System.out.println(String.format("%d %d %d %d %d %d", a, b, c, d, e, f));
                         }

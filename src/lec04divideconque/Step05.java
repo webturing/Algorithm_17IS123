@@ -14,7 +14,7 @@ public class Step05 {
         long start = System.currentTimeMillis();
         solve();
         long end = System.currentTimeMillis();
-       // System.out.println(end - start);
+       System.out.println(end - start);
 
     }
     //第一个优化：设 1<=a<=b<=c<=d<=e<f<=100  => 3hour->7s

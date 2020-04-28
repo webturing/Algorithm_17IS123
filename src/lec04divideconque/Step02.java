@@ -1,5 +1,7 @@
 package lec04divideconque;
 
+import java.util.Arrays;
+
 public class Step02 {
     public static final int N = 100;
     public static long[] H = new long[N + 1];
@@ -18,6 +20,7 @@ public class Step02 {
     private static void solve() {//O(n^6)
         for (int i = 1; i <= N; i++)
             H[i] = 1L * i * i * i * i * i;
+        System.out.println(Arrays.toString(H));
         for (int a = 1; a <= N; a++)
             for (int b = a; b <= N; b++)
                 for (int c = b; c <= N; c++)
