@@ -6,10 +6,10 @@
  - 进制转化
  - 括号匹配
  - 后缀式计算
- ## 队列 Queue
- - 解密QQ号
- - 解密QQ号2
- ## 二叉堆Heap 
+ ## 队列 Queue/LinkedList
+ - 解密QQ号Queue 
+ - 解密QQ号2 Deque
+ ## 二叉堆Heap PriorityQueue
  - 堆
  - 堆排序
  - 优先级队列的应用
