@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/lec08ds2/XiaoMing1.java" line="19" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f88aadc3-337a-483d-8b4d-1156c2c7ee8a" name="Default" comment="Java8函数式编程">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lec08ds2/HeapDemo.java" afterPath="$PROJECT_DIR$/src/lec08ds2/HeapDemo.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="outline.MD" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lec08ds2/outline.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="247">
+                <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lec08ds2/HeapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Algorithm.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuffixExpression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lec08ds2/SuffixExpression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XiaoMing1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lec08ds2/XiaoMing1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XiaoMing2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lec08ds2/XiaoMing2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="22" column="9" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeQQNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lec08ds2/DecodeQQNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timg.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lec08ds2/timg.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MagicGame2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lec08ds2/MagicGame2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1634">
+              <caret line="109" column="11" lean-forward="false" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lec06api/SymmetricNumberGuess2.java" />
+        <option value="$PROJECT_DIR$/src/lec04divideconque/Step02.java" />
+        <option value="$PROJECT_DIR$/src/lec04divideconque/TestAll.java" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/StackDemo.java" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/BraceMatchChecker.java" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/SuffixExpression.java" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/QueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/DecodeQQNumber.java" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/XiaoMing1.java" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/XiaoMing2.java" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/outline.MD" />
+        <option value="$PROJECT_DIR$/src/lec08ds2/HeapDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\projects\Algorithm_17IS123\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="304" />
+    <option name="y" value="210" />
+    <option name="width" value="1291" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectId" id="1aTUKq6TLwhTnwzbHfhYoqMHe6x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm_17IS123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_17IS123" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_17IS123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_17IS123" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_17IS123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_17IS123" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lec07ds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_17IS123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_17IS123" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lec08ds2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_17IS123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_17IS123" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lec09greedy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_17IS123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_17IS123" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lec10democontest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5632184" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\Algorithm_17IS123\src\lec04divideconque" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lec08ds2" />
+      <recent name="lec07ds" />
+      <recent name="lec06api" />
+      <recent name="lec05acm.hp" />
+      <recent name="lec04divideconque" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\Algorithm_17IS123\src\lec09greedy" />
+      <recent name="D:\projects\Algorithm_17IS123\src" />
+      <recent name="D:\projects\Algorithm_17IS123\src\lec04recursion2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HeapDemo">
+    <configuration name="DecodeQQNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lec08ds2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lec08ds2.DecodeQQNumber" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm_17IS123" />
+      <envs />
+    </configuration>
+    <configuration name="HeapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lec08ds2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lec08ds2.HeapDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm_17IS123" />
+      <envs />
+    </configuration>
+    <configuration name="MagicGame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lec08ds2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lec08ds2.MagicGame2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm_17IS123" />
+      <envs />
+    </configuration>
+    <configuration name="XiaoMing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lec08ds2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lec08ds2.XiaoMing1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm_17IS123" />
+      <envs />
+    </configuration>
+    <configuration name="XiaoMing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lec08ds2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lec08ds2.XiaoMing2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm_17IS123" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.DecodeQQNumber" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MagicGame2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HeapDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.XiaoMing1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.XiaoMing2" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.HeapDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.XiaoMing2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.XiaoMing1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DecodeQQNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MagicGame2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f88aadc3-337a-483d-8b4d-1156c2c7ee8a" name="Default" comment="" />
+      <created>1585804367858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585804367858</updated>
+      <workItem from="1585804372252" duration="622000" />
+      <workItem from="1586759017305" duration="2281000" />
+      <workItem from="1586764190923" duration="7368000" />
+      <workItem from="1586873252503" duration="19000" />
+      <workItem from="1587213477969" duration="3929000" />
+      <workItem from="1587221717248" duration="28000" />
+      <workItem from="1587354432895" duration="5130000" />
+      <workItem from="1587370612370" duration="6864000" />
+      <workItem from="1587388731095" duration="1647000" />
+      <workItem from="1587877756400" duration="14429000" />
+      <workItem from="1587908335292" duration="153000" />
+      <workItem from="1587950240599" duration="776000" />
+      <workItem from="1587970515829" duration="8911000" />
+      <workItem from="1587982338643" duration="170000" />
+      <workItem from="1588038299689" duration="134000" />
+      <workItem from="1588040599346" duration="612000" />
+      <workItem from="1588041272744" duration="1263000" />
+      <workItem from="1588050190499" duration="586000" />
+      <workItem from="1588080646727" duration="3891000" />
+      <workItem from="1588116456291" duration="1643000" />
+      <workItem from="1588118992751" duration="795000" />
+      <workItem from="1588151494535" duration="2843000" />
+      <workItem from="1589185610130" duration="6351000" />
+      <workItem from="1589195566579" duration="129000" />
+      <workItem from="1589290103332" duration="266000" />
+      <workItem from="1589433776972" duration="653000" />
+      <workItem from="1589435508103" duration="600000" />
+      <workItem from="1589437461964" duration="687000" />
+      <workItem from="1589500201934" duration="102000" />
+      <workItem from="1589523923814" duration="196000" />
+      <workItem from="1589524125625" duration="35000" />
+      <workItem from="1589527205353" duration="974000" />
+    </task>
+    <task id="LOCAL-00001" summary="第四讲：递归式分析习题讲解">
+      <created>1586759188765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586759188765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第四讲：递归式分析习题讲解">
+      <created>1586760061668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586760061668</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第四讲：递归式分析习题讲解">
+      <created>1586764219073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586764219073</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四讲：递归式分析习题讲解">
+      <created>1586765311235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586765311235</updated>
+    </task>
+    <task id="LOCAL-00005" summary="AckMan函数计算">
+      <created>1586769456809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586769456809</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lec05 java ACM IO">
+      <created>1587374127484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587374127484</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lec05: 逆反A*B 子方法设计">
+      <created>1587374159281</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587374159281</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lec05 java ACM 高精度计算">
+      <created>1587391302606</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587391302606</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Java8函数式编程">
+      <created>1587883428532</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587883428532</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lec06算法优化实例">
+      <created>1587894722749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587894722749</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lec06算法优化实例 java8新特性lambda函数">
+      <created>1587895794152</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587895794152</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lec07 线性数据结构和算法">
+      <created>1587979048117</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587979048117</updated>
+    </task>
+    <task id="LOCAL-00013" summary="lec07 数据结构和算法1">
+      <created>1587982367992</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587982367992</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lec06算法优化实例 java8新特性lambda函数">
+      <created>1587982438009</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587982438009</updated>
+    </task>
+    <task id="LOCAL-00015" summary="第四讲：递归式分析习题讲解">
+      <created>1588117123325</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1588117123326</updated>
+    </task>
+    <task id="LOCAL-00016" summary="第8讲java数据结构应用">
+      <created>1589188538621</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589188538621</updated>
+    </task>
+    <task id="LOCAL-00017" summary="第8讲java数据结构应用">
+      <created>1589195680784</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1589195680785</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21626000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="304" y="210" width="1291" height="704" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37883598" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31764707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293371" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AckMan函数计算" />
+    <MESSAGE value="lec05 java ACM IO" />
+    <MESSAGE value="lec05: 逆反A*B 子方法设计" />
+    <MESSAGE value="lec05 java ACM 高精度计算" />
+    <MESSAGE value="Java8函数式编程" />
+    <MESSAGE value="lec06算法优化实例" />
+    <MESSAGE value="lec07 线性数据结构和算法" />
+    <MESSAGE value="lec07 数据结构和算法1" />
+    <MESSAGE value="lec06算法优化实例 java8新特性lambda函数" />
+    <MESSAGE value="第四讲：递归式分析习题讲解" />
+    <MESSAGE value="第8讲java数据结构应用" />
+    <option name="LAST_COMMIT_MESSAGE" value="第8讲java数据结构应用" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1587895325741">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="765" y="268" key="#com.intellij.ide.util.MemberChooser/-2880.160.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587895325741" />
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586759076820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586759076820" />
+    <state x="564" y="124" key="CommitChangelistDialog2" timestamp="1587982436469">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="564" y="124" key="CommitChangelistDialog2/-2880.-893.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587982436469" />
+    <state x="564" y="159" key="CommitChangelistDialog2/-2880.160.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587895789401" />
+    <state x="423" y="0" key="CommitChangelistDialog2/0.0.1440.770@0.0.1440.770" timestamp="1586760060036" />
+    <state x="3444" y="124" key="CommitChangelistDialog2/0.0.1920.1040/2880.0.1920.1080@2880.0.1920.1080" timestamp="1586827874001" />
+    <state x="564" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586769455662" />
+    <state x="564" y="159" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1587359687779" />
+    <state x="564" y="159" key="CommitChangelistDialog2/1920.134.1440.790/0.40.1920.1040@0.40.1920.1040" timestamp="1587374158344" />
+    <state x="564" y="119" key="CommitChangelistDialog2/1920.267.1080.1893/0.0.1920.1040@0.0.1920.1040" timestamp="1587391301488" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1588038434152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/-2880.-893.1440.790/0.0.1920.1040@0.0.1920.1040" timestamp="1588038434152" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom/-2880.-893.1440.810/0.0.1920.1080@0.0.1920.1080" timestamp="1587972054302" />
+    <state width="1877" height="297" key="GridCell.Tab.0.bottom/-2880.-893.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587982297519" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom/-2880.120.2880.1620/0.0.1920.1080@0.0.1920.1080" timestamp="1587908509825" />
+    <state width="1877" height="183" key="GridCell.Tab.0.bottom/-2880.160.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587895523423" />
+    <state width="1877" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586772593354" />
+    <state width="1877" height="568" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1587359653324" />
+    <state width="2837" height="328" key="GridCell.Tab.0.bottom/0.40.2880.1580@0.40.2880.1580" timestamp="1587368080554" />
+    <state width="1877" height="132" key="GridCell.Tab.0.bottom/1920.134.1440.790/0.40.1920.1040@0.40.1920.1040" timestamp="1587377482466" />
+    <state width="1189" height="140" key="GridCell.Tab.0.bottom/62.0.2818.1620@62.0.2818.1620" timestamp="1587216726916" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1588038434152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/-2880.-893.1440.790/0.0.1920.1040@0.0.1920.1040" timestamp="1588038434152" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center/-2880.-893.1440.810/0.0.1920.1080@0.0.1920.1080" timestamp="1587972054302" />
+    <state width="1877" height="297" key="GridCell.Tab.0.center/-2880.-893.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587982297519" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center/-2880.120.2880.1620/0.0.1920.1080@0.0.1920.1080" timestamp="1587908509825" />
+    <state width="1877" height="183" key="GridCell.Tab.0.center/-2880.160.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587895523422" />
+    <state width="1877" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586772593354" />
+    <state width="1877" height="568" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1587359653323" />
+    <state width="2837" height="328" key="GridCell.Tab.0.center/0.40.2880.1580@0.40.2880.1580" timestamp="1587368080554" />
+    <state width="1877" height="132" key="GridCell.Tab.0.center/1920.134.1440.790/0.40.1920.1040@0.40.1920.1040" timestamp="1587377482466" />
+    <state width="1189" height="140" key="GridCell.Tab.0.center/62.0.2818.1620@62.0.2818.1620" timestamp="1587216726916" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1588038434152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/-2880.-893.1440.790/0.0.1920.1040@0.0.1920.1040" timestamp="1588038434152" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left/-2880.-893.1440.810/0.0.1920.1080@0.0.1920.1080" timestamp="1587972054302" />
+    <state width="1877" height="297" key="GridCell.Tab.0.left/-2880.-893.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587982297519" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left/-2880.120.2880.1620/0.0.1920.1080@0.0.1920.1080" timestamp="1587908509809" />
+    <state width="1877" height="183" key="GridCell.Tab.0.left/-2880.160.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587895523421" />
+    <state width="1877" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586772593354" />
+    <state width="1877" height="568" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1587359653323" />
+    <state width="2837" height="328" key="GridCell.Tab.0.left/0.40.2880.1580@0.40.2880.1580" timestamp="1587368080554" />
+    <state width="1877" height="132" key="GridCell.Tab.0.left/1920.134.1440.790/0.40.1920.1040@0.40.1920.1040" timestamp="1587377482465" />
+    <state width="1189" height="140" key="GridCell.Tab.0.left/62.0.2818.1620@62.0.2818.1620" timestamp="1587216726916" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1588038434152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/-2880.-893.1440.790/0.0.1920.1040@0.0.1920.1040" timestamp="1588038434152" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right/-2880.-893.1440.810/0.0.1920.1080@0.0.1920.1080" timestamp="1587972054302" />
+    <state width="1877" height="297" key="GridCell.Tab.0.right/-2880.-893.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587982297519" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right/-2880.120.2880.1620/0.0.1920.1080@0.0.1920.1080" timestamp="1587908509825" />
+    <state width="1877" height="183" key="GridCell.Tab.0.right/-2880.160.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587895523423" />
+    <state width="1877" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586772593354" />
+    <state width="1877" height="568" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1587359653324" />
+    <state width="2837" height="328" key="GridCell.Tab.0.right/0.40.2880.1580@0.40.2880.1580" timestamp="1587368080554" />
+    <state width="1877" height="132" key="GridCell.Tab.0.right/1920.134.1440.790/0.40.1920.1040@0.40.1920.1040" timestamp="1587377482466" />
+    <state width="1189" height="140" key="GridCell.Tab.0.right/62.0.2818.1620@62.0.2818.1620" timestamp="1587216726916" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587368080550">
+      <screen x="0" y="40" width="2880" height="1580" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586772593349" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1587359147818" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.40.2880.1580@0.40.2880.1580" timestamp="1587368080550" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587368080550">
+      <screen x="0" y="40" width="2880" height="1580" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586772593349" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1587359147818" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.40.2880.1580@0.40.2880.1580" timestamp="1587368080550" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587368080550">
+      <screen x="0" y="40" width="2880" height="1580" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586772593349" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1587359147818" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.40.2880.1580@0.40.2880.1580" timestamp="1587368080550" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587368080550">
+      <screen x="0" y="40" width="2880" height="1580" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586772593349" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1587359147818" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.40.2880.1580@0.40.2880.1580" timestamp="1587368080550" />
+    <state x="735" y="233" key="RollbackChangesDialog" timestamp="1586765593099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="233" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586765593099" />
+    <state x="552" y="266" key="Vcs.Push.Dialog.v2" timestamp="1587982439749">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="266" key="Vcs.Push.Dialog.v2/-2880.-893.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587982439749" />
+    <state x="552" y="296" key="Vcs.Push.Dialog.v2/-2880.160.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587895797735" />
+    <state x="3432" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/2880.0.1920.1080@2880.0.1920.1080" timestamp="1586827877434" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586769458354" />
+    <state x="552" y="296" key="Vcs.Push.Dialog.v2/1920.134.1440.790/0.40.1920.1040@0.40.1920.1040" timestamp="1587374167010" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/1920.267.1080.1893/0.0.1920.1040@0.0.1920.1040" timestamp="1587391305012" />
+    <state x="658" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587971509094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="658" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-2880.-893.1440.810/0.0.1920.1080@0.0.1920.1080" timestamp="1587971509094" />
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586759023863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586759023863" />
+    <state x="731" y="274" key="run.anything.popup" timestamp="1587370695731">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="731" y="274" key="run.anything.popup/-2880.40.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587370695731" />
+    <state x="1096" y="395" key="run.anything.popup/0.40.2880.1580@0.40.2880.1580" timestamp="1587354792923" />
+    <state x="623" y="234" width="672" height="705" key="search.everywhere.popup" timestamp="1587980647023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="234" width="672" height="705" key="search.everywhere.popup/-2880.-893.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587980647023" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/-2880.160.2880.1580/0.40.1920.1040@0.40.1920.1040" timestamp="1587892292549" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/B.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/C.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/D.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/E.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/F.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/ArrayDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/HashSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/MapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/MyVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/outline.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/SetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec06api/SymmetricNumberGuess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec06api/SymmetricNumberGuess2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec05acm/io/P1241.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/P1220a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/P1220b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/P1220c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec07ds/TwinsString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/F.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec03recursion/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec03recursion/outline.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec03recursion/Fib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/C.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/B.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec03recursion/SelectionSort0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec04divideconque/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec04divideconque/Step01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec04divideconque/TestAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec04divideconque/Fibonnacci2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2147">
+          <caret line="136" column="15" lean-forward="false" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/E.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec10democontest/D.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec03recursion/LinearSearch0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec04divideconque/Step02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/StackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/BraceMatchChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/QueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1005">
+          <caret line="134" column="17" lean-forward="false" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/DecodeQQNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/timg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/XiaoMing2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/XiaoMing1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/SuffixExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="109" column="11" lean-forward="false" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/MagicGame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/HeapDemo2.java" />
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/outline.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="247">
+            <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lec08ds2/HeapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>src</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
