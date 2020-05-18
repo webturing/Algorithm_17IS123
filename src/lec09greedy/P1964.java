@@ -1,3 +1,4 @@
+package lec09greedy;
 
 import java.util.Arrays;
 
@@ -11,7 +12,7 @@ public class P1964 {
         for (int i = 9; i >= 1; i--) {
             if (B[i] <= n) {
                 n -= B[i];
-                System.err.println(i + "!=" + B[i]);
+                System.err.println(i + "! =" + B[i]);
             }
         }
         System.err.println(n);

@@ -5,28 +5,7 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class E2 {
-    static class Item implements  Comparable<Item> {
-        int start, end;
-
-        public Item(int start, int end) {
-            this.start = start;
-            this.end = end;
-        }
-
-        @Override
-        public String toString() {
-            return "Item{" +
-                    "start=" + start +
-                    ", end=" + end +
-                    '}';
-        }
-
-        @Override
-        public int compareTo(Item that) {
-
-            return this.end-that.end;
-        }
-    }
+    static Scanner cin = new Scanner(System.in);
 
     public static void main(String[] args) {
 
@@ -39,14 +18,14 @@ public class E2 {
                 items[i] = new Item(cin.nextInt(), cin.nextInt());
             }
             Arrays.sort(items);//Comparable
-            Arrays.sort(items,new Comparator<Item>(){
+            Arrays.sort(items, new Comparator<Item>() {
 
                 @Override
                 public int compare(Item o1, Item o2) {
-                    return o1.end-o2.end;
+                    return o1.end - o2.end;
                 }
             });//method 1
-            Arrays.sort(items, (o1,o2)->(o1.end-o2.end));//method2
+            Arrays.sort(items, (o1, o2) -> (o1.end - o2.end));//method2
             Arrays.sort(items, Comparator.comparingInt(o -> -o.end));//method3
             int tot = 0;
             while (true) {
@@ -81,5 +60,26 @@ public class E2 {
         cin.close();
     }
 
-    static Scanner cin = new Scanner(System.in);
+    static class Item implements Comparable<Item> {
+        int start, end;
+
+        public Item(int start, int end) {
+            this.start = start;
+            this.end = end;
+        }
+
+        @Override
+        public String toString() {
+            return "Item{" +
+                    "start=" + start +
+                    ", end=" + end +
+                    '}';
+        }
+
+        @Override
+        public int compareTo(Item that) {
+
+            return this.end - that.end;
+        }
+    }
 }

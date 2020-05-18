@@ -1,23 +1,10 @@
 package lec09greedy;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.Scanner;
 
 public class E {
-    static class Item {
-        int start, end;
-
-        public Item(final int start, final int end) {
-            this.start = start;
-            this.end = end;
-        }
-
-        @Override
-        public String toString() {
-            return "Item{" + "start=" + start + ", end=" + end + '}';
-        }
-    }
+    static Scanner cin = new Scanner(System.in);
 
     public static void main(final String[] args) {
 
@@ -44,5 +31,17 @@ public class E {
         cin.close();
     }
 
-    static Scanner cin = new Scanner(System.in);
+    static class Item {
+        int start, end;
+
+        public Item(final int start, final int end) {
+            this.start = start;
+            this.end = end;
+        }
+
+        @Override
+        public String toString() {
+            return "Item{" + "start=" + start + ", end=" + end + '}';
+        }
+    }
 }
