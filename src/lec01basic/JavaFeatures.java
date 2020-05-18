@@ -1,7 +1,6 @@
 package lec01basic;
 
 
-
 public class JavaFeatures {
 
     public static void main(String[] args) {
