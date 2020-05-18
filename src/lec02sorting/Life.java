@@ -1,4 +1,4 @@
-package lec01sorting;
+package lec02sorting;
 
 public class Life {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lec01sorting;
+package lec02sorting;
 
 import java.util.Arrays;
 
@@ -17,6 +17,6 @@ public class BinarySearch {
         System.out.println(find);
         //二分查找算法
         Arrays.sort(a);
-        System.out.println(Arrays.binarySearch(a, k)>=0);
+        System.out.println(Arrays.binarySearch(a, k) >= 0);
     }
 }

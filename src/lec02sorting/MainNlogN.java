@@ -1,4 +1,4 @@
-package lec01sorting;
+package lec02sorting;
 
 import java.util.Arrays;
 import java.util.Scanner;

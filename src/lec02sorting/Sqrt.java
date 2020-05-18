@@ -1,4 +1,4 @@
-package lec01sorting;
+package lec02sorting;
 
 public class Sqrt {
     public static void main(String[] args) {
