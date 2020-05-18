@@ -36,7 +36,8 @@ public class PolyExpression {
         }
         return s;
     }
-//ax^3+bx^2+cx+d=(ax^2+bx+c)x+d=((a*x+b)x+c)x+d=> O(n)
+
+    //ax^3+bx^2+cx+d=(ax^2+bx+c)x+d=((a*x+b)x+c)x+d=> O(n)
     static int f2(int[] a, int x) {//horner准则O(n)
         int s = 0;
         for (int i = 0; i < a.length; i++) {

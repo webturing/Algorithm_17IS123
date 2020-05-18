@@ -1,9 +1,11 @@
 package lec06api;
 
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 public class JavaNew {//jdk >=8.0 //jdk 11
+
     public static void main(String[] args) {
         List<Integer> a = Arrays.asList(new Integer[]{71, 12, 33, 44, 55, 66, 99, 100, 101});
 

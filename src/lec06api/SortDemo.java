@@ -1,7 +1,6 @@
 package lec06api;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class SortDemo {
     public static void main(String[] args) {

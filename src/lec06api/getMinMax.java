@@ -11,7 +11,7 @@ public class getMinMax {
         int[] res = getMinAndMax(a);
         System.out.println("min=" + res[0] + ",max=" + res[1]);//O(3*n/2-2)
         Arrays.sort(a);//O(nLogN)
-        System.out.println("min=" + a[0] + ",max=" + a[a.length-1]);//O(nlogn)
+        System.out.println("min=" + a[0] + ",max=" + a[a.length - 1]);//O(nlogn)
 
     }
 

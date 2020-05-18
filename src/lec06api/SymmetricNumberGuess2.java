@@ -13,7 +13,7 @@ public class SymmetricNumberGuess2 {
             BigInteger m = r(n);
             if (m.equals(n)) break;
             //n=n+m
-            System.out.println(String.format("[%d:]%s+%s=%s",tot, n, m, n = n.add(m)));
+            System.out.println(String.format("[%d:]%s+%s=%s", tot, n, m, n = n.add(m)));
         }
     }
 

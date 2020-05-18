@@ -1,6 +1,5 @@
 package lec06api;
 
-import java.math.BigInteger;
 //a^n % MOD
 //3^1997 %10
 public class PowerDemo {
@@ -29,9 +28,9 @@ public class PowerDemo {
         int a = 3, n = 209900007;
         //System.out.println(Math.pow(a, n));//10^308
         //System.out.println(new BigInteger(Integer.toString(a)).pow(n));//ok
-        long start=System.currentTimeMillis();
+        long start = System.currentTimeMillis();
         //System.out.println(linearPower(a, n));//10s
         System.out.println(quickPower(a, n));//1~3 ms
-        System.out.println(System.currentTimeMillis()-start);
+        System.out.println(System.currentTimeMillis() - start);
     }
 }
