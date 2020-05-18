@@ -10,7 +10,7 @@ public class BinarySearch0 {
         int pos = find(a, k, 3, 8);
 
         System.out.println(pos);
-        System.out.println(Arrays.binarySearch(a,k));
+        System.out.println(Arrays.binarySearch(a, k));
 
     }
 
