@@ -14,9 +14,10 @@ public class Step05 {
         long start = System.currentTimeMillis();
         solve();
         long end = System.currentTimeMillis();
-       System.out.println(end - start);
+        System.out.println(end - start);
 
     }
+
     //第一个优化：设 1<=a<=b<=c<=d<=e<f<=100  => 3hour->7s
     //优化二：避免重复计算x^5,用空间换时间，用数组H来存储H[x]=x^5 =>2.7s
     //优化三:用二分查找来判断 check(a^5+b^5+c^5....+e^5)=>1.3s

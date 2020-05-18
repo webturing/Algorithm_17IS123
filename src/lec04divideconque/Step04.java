@@ -17,6 +17,7 @@ public class Step04 {
         System.out.println(end - start);
 
     }
+
     //第一个优化：设 1<=a<=b<=c<=d<=e<f<=100  => 3hour->7s
     //优化二：避免重复计算x^5,用空间换时间，用数组H来存储H[x]=x^5 =>2.7s
     //优化三:用二分查找来判断 check(a^5+b^5+c^5....+e^5)=>1.3s
@@ -30,7 +31,7 @@ public class Step04 {
                     for (int d = c; d < N; d++)
                         for (int e = d; e < N; e++) {
                             long key = H[a] + H[b] + H[c] + H[d] + H[e];
-                            int f = Arrays.binarySearch(H, e+1, N, key);//[fromIndex,endIndex]
+                            int f = Arrays.binarySearch(H, e + 1, N, key);//[fromIndex,endIndex]
                             if (f >= 0)
                                 System.out.println(String.format("%d %d %d %d %d %d", a, b, c, d, e, f));
                         }

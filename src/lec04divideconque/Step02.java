@@ -7,7 +7,6 @@ public class Step02 {
     public static long[] H = new long[N + 1];
 
 
-
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         solve();
@@ -15,6 +14,7 @@ public class Step02 {
         System.out.println(end - start);
 
     }
+
     //第一个优化：设 1<=a<=b<=c<=d<=e<f<=100  => 3hour->7s
     //优化二：避免重复计算x^5,用空间换时间，用数组H来存储H[x]=x^5 =>2.7s
     private static void solve() {//O(n^6)

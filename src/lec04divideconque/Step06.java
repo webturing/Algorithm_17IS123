@@ -1,8 +1,6 @@
 package lec04divideconque;
 
-import java.io.PrintWriter;
 import java.util.Arrays;
-import java.util.Scanner;
 
 /**
  * 题目描述:在[1,100]之间选择6个数ABCDEF 满足A^5+B^5+C^5+D^5+E^5==F^5
@@ -14,12 +12,11 @@ import java.util.Scanner;
  */
 public class Step06 {
     static long[] b = new long[101];
+    static int[] a = new int[6];
 
     static {
         for (int i = 1; i < b.length; i++) b[i] = 1L * i * i * i * i * i;
     }
-
-    static int[] a = new int[6];
 
     static void dfs(int k, int t) {//带范围的dfs改造可以避免重复值
         if (k == 5) {//搜到5层结束

@@ -6,6 +6,7 @@ public class Step00 {
     public static long h(int x) {
         return (long) x * x * x * x * x;
     }
+
     //int*int 1
     //long*long >=4
     public static void main(String[] args) {

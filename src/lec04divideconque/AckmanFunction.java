@@ -2,15 +2,15 @@ package lec04divideconque;
 
 public class AckmanFunction {
     public static void main(String[] args) {
-        System.out.println(A(0,0));
-        System.out.println(A(0,1));
-        System.out.println(A(1,0));
-        System.out.println(A(1,2));
-        System.out.println(A(2,1));
-        System.out.println(A(2,2));
-        System.out.println(A(2,3));
-        System.out.println(A(3,3));
-        System.out.println(A(4,3));
+        System.out.println(A(0, 0));
+        System.out.println(A(0, 1));
+        System.out.println(A(1, 0));
+        System.out.println(A(1, 2));
+        System.out.println(A(2, 1));
+        System.out.println(A(2, 2));
+        System.out.println(A(2, 3));
+        System.out.println(A(3, 3));
+        System.out.println(A(4, 3));
     }
 
     static int A(int n, int m) {
