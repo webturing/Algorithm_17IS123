@@ -6,6 +6,8 @@ import java.util.Scanner;
 import java.util.Vector;
 
 public class P1220b {
+    static Scanner cin = new Scanner(System.in);
+
     public static void main(String[] args) {
         int n = cin.nextInt();
         Vector<Integer> v = new Vector<>();
@@ -20,6 +22,4 @@ public class P1220b {
         }
         cin.close();
     }
-
-    static Scanner cin = new Scanner(System.in);
 }

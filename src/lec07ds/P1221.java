@@ -1,12 +1,13 @@
 package lec07ds;
 
-import java.util.Arrays;
 import java.util.Scanner;
 import java.util.TreeMap;
 
 public class P1221 {
+    static Scanner cin = new Scanner(System.in);
+
     public static void main(String[] args) {
-       // String clause = "To know everything? 'is' to know nothing.";
+        // String clause = "To know everything? 'is' to know nothing.";
         String[] words = cin.nextLine().toLowerCase().split("\\W+");
         //System.out.println(Arrays.asList(words));
         System.out.println(words.length);//7
@@ -23,5 +24,4 @@ public class P1221 {
             System.out.println(String.format("%s:%d", word, map.get(word)));
         }
     }
-    static Scanner cin=new Scanner(System.in);
 }

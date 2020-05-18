@@ -11,7 +11,7 @@ public class SetDemo {
             S.add(i);
 
         }
-        for(Integer i:S){
+        for (Integer i : S) {
             System.out.println(i);
         }
 

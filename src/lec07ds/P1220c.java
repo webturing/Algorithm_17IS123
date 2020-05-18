@@ -4,6 +4,8 @@ import java.util.Scanner;
 import java.util.TreeSet;
 
 public class P1220c {
+    static Scanner cin = new Scanner(System.in);
+
     public static void main(String[] args) {
         TreeSet<Integer> set = new TreeSet<Integer>();
         int n = cin.nextInt();
@@ -14,6 +16,4 @@ public class P1220c {
             System.out.println(i);
         }
     }
-
-    static Scanner cin = new Scanner(System.in);
 }
