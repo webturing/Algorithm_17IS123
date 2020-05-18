@@ -5,6 +5,8 @@ import java.util.Queue;
 import java.util.Scanner;
 
 public class DecodeQQNumber {
+    static Scanner cin = new Scanner(System.in);
+
     public static void main(String[] args) {
         int n = cin.nextInt();
         Queue<Integer> Q = new LinkedList<>();
@@ -22,6 +24,4 @@ public class DecodeQQNumber {
 
         }
     }
-
-    static Scanner cin = new Scanner(System.in);
 }
