@@ -4,7 +4,7 @@ public class MatrixChains {
     public static void main(String[] args) {
         int n = 6;
         int[] M = new int[]
-                {30, 35, 15, 5, 10, 20,25};
+                {30, 35, 15, 5, 10, 20, 25};
 
 
         System.out.println(f(M, 1, n));
@@ -17,7 +17,7 @@ public class MatrixChains {
         int ans = Integer.MAX_VALUE;
         for (int k = i; k <= j - 1; k++) {
             //从k处断开 第一部分是计算i,k这段，第二部分是计算k+1,j这段
-            ans = Math.min(f(p, i, k) + f(p, k + 1, j) + p[i-1] * p[k] * p[j], ans);
+            ans = Math.min(f(p, i, k) + f(p, k + 1, j) + p[i - 1] * p[k] * p[j], ans);
         }
         return ans;
     }

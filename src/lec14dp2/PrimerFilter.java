@@ -9,7 +9,7 @@ public class PrimerFilter {
     static {
         Arrays.fill(primer, 1);//假设所有的数都是素数
         primer[0] = primer[1] = 0;//删除0,1
-        for (int i = 2; i*i < primer.length; i++) {
+        for (int i = 2; i * i < primer.length; i++) {
             if (primer[i] == 1) {
                 for (int j = 2 * i; j < primer.length; j += i) {
                     //j>i && j%i==0 j 一定是合数
