@@ -10,7 +10,7 @@ public class MatrixChains3 {
             Arrays.fill(dp[i], Integer.MAX_VALUE);
     }
 
-    private static int f(int[] p, int i, int j) {
+    private static int f(int[] p, int i, int j) {//O(n^3)
         if (dp[i][j] != Integer.MAX_VALUE)
             return dp[i][j];
         if (i == j) return dp[i][j] = 0;

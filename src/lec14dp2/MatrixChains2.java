@@ -17,7 +17,7 @@ public class MatrixChains2 {
 
         for (int i = 2; i <= n; i++) {
             for (int j = i + 1; j <= n; j++) {
-                for (int k = 3; k <= j - 1; k++) {
+                for (int k = i; k <= j - 1; k++) {
                     dp[i][j] = Math.min(dp[i][j], dp[i][k] + dp[k + 1][j] + M[i - 1] * M[k] * M[j]);
                 }
             }
