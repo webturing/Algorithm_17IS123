@@ -53,6 +53,7 @@ public class BfsApp3 {
                 }
 
             }
+            System.err.println("");
         }
         System.out.println(gmax);
     }
