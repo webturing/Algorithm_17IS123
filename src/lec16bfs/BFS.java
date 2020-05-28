@@ -4,8 +4,12 @@ public class BFS {
     // 效率高:可以解决可达性（最短路） ，连通度计算，最大区域
 
     static int n = 4;
-    static char[][] g = new char[][] { "ABCD".toCharArray(), "EFGH".toCharArray(), "IJKL".toCharArray(),
-            "MNOP".toCharArray() };
+    static char[][] g = new char[][]{
+            {'A', 'B', 'C', 'D'},
+            {'E', 'F', 'G', 'H'},
+            {'I', 'J', 'K', 'L'},
+            {'M', 'N', 'O', 'P'}
+    };
     static int[][] vis = new int[n][n];
     // static int[][] next = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};//四联通
     static int[][] next = new int[][] { { 0, 1 }, { 1, 1 }, { 1, 0 }, { 1, -1 }, { 0, -1 }, { -1, -1 }, { -1, 0 },

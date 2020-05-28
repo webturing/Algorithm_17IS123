@@ -4,10 +4,10 @@ public class DFS {
 
     static int n = 4;
     static char[][] g = new char[][]{
-            "ABCD".toCharArray(),
-            "EFGH".toCharArray(),
-            "IJKL".toCharArray(),
-            "MNOP".toCharArray()
+            {'A', 'B', 'C', 'D'},
+            {'E', 'F', 'G', 'H'},
+            {'I', 'J', 'K', 'L'},
+            {'M', 'N', 'O', 'P'}
     };
     static int[][] vis = new int[n][n];
 
