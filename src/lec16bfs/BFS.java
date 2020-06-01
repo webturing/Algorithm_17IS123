@@ -5,17 +5,17 @@ public class BFS {
 
     static int n = 4;
     static char[][] g = new char[][]{
-            {'A', 'B', 'C', 'D'},
-            {'E', 'F', 'G', 'H'},
-            {'I', 'J', 'K', 'L'},
-            {'M', 'N', 'O', 'P'}
+            {'A', 'B', '/', 'D'},
+            {'E', 'F', '/', 'H'},
+            {'I', 'J', '/', 'L'},
+            {'M', '/', 'O', 'P'}
     };
     static int[][] vis = new int[n][n];
-    // static int[][] next = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};//四联通
-    static int[][] next = new int[][] { { 0, 1 }, { 1, 1 }, { 1, 0 }, { 1, -1 }, { 0, -1 }, { -1, -1 }, { -1, 0 },
-            { -1, 1 } };// 八连通
+     static int[][] next = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};//四联通
+    //static int[][] next = new int[][] { { 0, 1 }, { 1, 1 }, { 1, 0 }, { 1, -1 }, { 0, -1 }, { -1, -1 }, { -1, 0 },
+      //      { -1, 1 } };// 八连通
     static int[][] q = new int[10000][2];
-    static int head = 0, tail = -1;
+    static int head = 0, tail = -1;//q[head,tail]队列的内容
 
     static void bfs(int sx, int sy) {
         ++tail;
@@ -30,7 +30,7 @@ public class BFS {
             for (int i = 0; i < next.length; i++) {
                 int nx = xx + next[i][0];
                 int ny = yy + next[i][1];
-                if (nx < 0 || nx >= n || ny < 0 || ny >= n || vis[nx][ny] == 1)
+                if (nx < 0 || nx >= n || ny < 0 || ny >= n || vis[nx][ny] == 1||g[nx][ny]=='/')
                     continue;
                 ++tail;
                 q[tail][0] = nx;

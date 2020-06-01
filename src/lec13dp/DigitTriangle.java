@@ -3,12 +3,7 @@ package lec13dp;
 public class DigitTriangle {
     public static void main(String[] args) {
         int n = 5;
-        int[][] a = new int[][]{
-                {7},
-                {3, 8},
-                {8, 1, 0},
-                {2, 7, 4, 4},
-                {4, 5, 2, 6, 5},
+        int[][] a = new int[][] { { 7 }, { 3, 8 }, { 8, 1, 0 }, { 2, 7, 4, 4 }, { 4, 5, 2, 6, 5 },
 
         };
         int[][] dp = new int[5][5];
@@ -20,10 +15,11 @@ public class DigitTriangle {
             }
 
         }
+
         System.out.println(dp[0][0]);
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                System.err.print(dp[i][j]+" ");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                System.err.print(dp[i][j] + " ");
             }
             System.err.println();
         }
