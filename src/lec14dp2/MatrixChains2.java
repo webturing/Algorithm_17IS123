@@ -7,13 +7,7 @@ public class MatrixChains2 {
                 {30, 35, 15, 5, 10, 20, 25};
 
         int[][] m = new int[n + 1][n + 1];
-        for (int i = 1; i <= n; i++)
-            for (int j = 1; j <= n; j++) {
-                if (i == j)
-                    m[i][j] = 0;
-                else
-                    m[i][j] = Integer.MAX_VALUE;
-            }
+
         for (int r = 2; r <= n; r++) {
             for (int i = 1; i <= n - r + 1; i++) {
                 int j = i + r - 1;
