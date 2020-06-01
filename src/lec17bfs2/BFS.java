@@ -9,8 +9,8 @@ public class BFS {
             {'M', '/', 'O', 'P'}
     };
     static int[][] vis = new int[n][n];
-   static int[][] next = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};//四联通
-   // static int[][] next = new int[][] { { 0, 1 }, { 1, 1 }, { 1, 0 }, { 1, -1 }, { 0, -1 }, { -1, -1 }, { -1, 0 }, { -1, 1 } };// 八连通
+    static int[][] next = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};//四联通
+    // static int[][] next = new int[][] { { 0, 1 }, { 1, 1 }, { 1, 0 }, { 1, -1 }, { 0, -1 }, { -1, -1 }, { -1, 0 }, { -1, 1 } };// 八连通
     static int[][] q = new int[10000][2];
     static int head = 0, tail = -1;//q[head,tail]队列的内容
 
@@ -36,7 +36,7 @@ public class BFS {
                 int dy = next[i][1];
                 int nx = x + dx;
                 int ny = y + dy;
-                if (nx < 0 || ny < 0 || nx >= n || ny >= n || vis[nx][ny] == 1||g[nx][ny]=='/') continue;
+                if (nx < 0 || ny < 0 || nx >= n || ny >= n || vis[nx][ny] == 1 || g[nx][ny] == '/') continue;
                 ++tail;
                 q[tail][0] = nx;
                 q[tail][1] = ny;
